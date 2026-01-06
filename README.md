@@ -329,14 +329,6 @@ in the Software without restriction...
 
 ---
 
-## 🙏 致谢
-
-- 感谢 [@auto_sheerid_bot](https://t.me/auto_sheerid_bot) GGBond 提供的旧版代码基础
-- 感谢所有为本项目做出贡献的开发者
-- 感谢 SheerID 平台提供的认证服务
-
----
-
 ## 📊 项目统计
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PastKing/tgbot-verify&type=Date)](https://star-history.com/#PastKing/tgbot-verify&Date)
