@@ -5,9 +5,6 @@
 ![Issues](https://img.shields.io/github/issues/PastKing/tgbot-verify)
 ![License](https://img.shields.io/github/license/PastKing/tgbot-verify)
 
-> 🤖 自动完成 SheerID 学生/教师认证的 Telegram 机器人
-> 
-> 基于 [@auto_sheerid_bot](https://t.me/auto_sheerid_bot) GGBond 的旧版代码改进
 
 ---
 
